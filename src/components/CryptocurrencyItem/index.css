@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.coinBox {
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.coin {
+  display: flex;
+}
+
+.box {
+  display: flex;
+}
+
+.boxx {
+  margin-right: 60px;
+}
+.image{
+  height:40px;
+  width:40px;
+}

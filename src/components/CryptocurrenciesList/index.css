@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.table {
+  border: 2px solid #00e7ff;
+  border-radius: 9px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin: 40px;
+  width: 800px;
+  min-height: 50vh;
+}
+
+.heading {
+  display: flex;
+  justify-content: space-between;
+  background-color: #092e33;
+  height: 20px;
+  color: #ffffff;
+  align-items: center;
+  padding: 20px;
+  margin: 0px;
+}
+
+.box {
+  display: flex;
+}
+
+.boxx {
+  margin-right: 60px;
+}
